@@ -6,7 +6,7 @@ export default function Home() {
     <>
     <div className="flex ">
      <Button variant="destructive">
-      This is a button!
+      This is a protected Route!
       </Button>
     </div>
     </>
